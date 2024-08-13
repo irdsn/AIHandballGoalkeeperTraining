@@ -10,13 +10,11 @@
 
 ¡Espero que disfrutes entrenando una Red Neuronal Artificial!
 
-
-
 EJECUCIÓN:	
 	Para utilizar el programa basta con ejecutar ANN_app.exe (archivo tipo Aplicación)
 
 
- # FINAL DEGREE PROJECT
+ # BACHELOR'S THESIS
 
  ~ Author: Íñigo Rodríguez Sánchez
  ~ School of Engineering and Telecommunication Systems (ETSIST)
@@ -26,8 +24,6 @@ EJECUCIÓN:
  It uses an Artificial Neural Network that learns the goalkeeper's capabilities through the shots taken at goal.
 
 I hope you enjoy training an Artificial Neural Network!
-
-
 
 RUNNING:	
 	To use the program just run ANN_app.exe (Application type file).
